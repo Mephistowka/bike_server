@@ -1,0 +1,1 @@
+web: java -jar target/crowd-marketing-0.0.1-SNAPSHOT.jar
