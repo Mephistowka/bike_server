@@ -37,7 +37,7 @@ public class AuthController {
         return registrationService.register(signupRequest);
     }
 
-    @GetMapping("/login")
+    @PostMapping("/login")
     public ResponseEntity<?> login(@RequestBody @Valid AuthRequest authenticationRequest) throws InvalidKeySpecException, NoSuchAlgorithmException {
 
         return userDetailService.login(authenticationRequest);
