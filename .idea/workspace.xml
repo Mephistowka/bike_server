@@ -5,7 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8201922-a56e-4e27-94af-3ebb245eb994" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/CrowdApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/ServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/config/jwt/JWTAuteticatedFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/config/jwt/JWTAuteticatedFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/config/jwt/JWTTokenHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/config/jwt/JWTTokenHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/config/security/LogoutConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/config/security/LogoutConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/config/security/MemoryCacheConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/config/security/MemoryCacheConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/config/security/RestAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/config/security/RestAuthenticationEntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/config/security/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/config/security/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/controller/SystemControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/controller/SystemControler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/controller/converter/SystemConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/controller/converter/SystemConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/exceptions/ControllerErrorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/exceptions/ControllerErrorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/exceptions/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/exceptions/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/exceptions/ErrorObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/exceptions/ErrorObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/exceptions/email/EmailException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/exceptions/email/EmailException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/exceptions/field/CustomFieldError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/exceptions/field/CustomFieldError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/exceptions/field/FieldErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/exceptions/field/FieldErrorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/exceptions/user/UsernameException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/exceptions/user/UsernameException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/model/dtos/SystemDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/model/dtos/SystemDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/model/requests/AuthRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/model/requests/AuthRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/model/requests/SignupRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/model/requests/SignupRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/model/responses/AuthResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/model/responses/AuthResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/model/user/RoleName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/model/user/RoleName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/model/user/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/model/user/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/model/user/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/model/user/entity/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/model/user/entity/System.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/model/user/entity/System.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/model/user/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/model/user/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/repository/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/repository/SystemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/repository/SystemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/service/auth/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/service/auth/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/service/auth/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/service/auth/TokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/service/user/RegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/service/user/RegistrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/service/user/UserDetailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/service/user/UserDetailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/service/user/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/service/user/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crowdmarketing/utils/SecurityUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bikeserver/utils/SecurityUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/crowdmarketing/CrowdApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bikeserver/ServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/crowdmarketing/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bikeserver/TestConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +76,26 @@
     &quot;last_opened_file_path&quot;: &quot;D:/bike_server&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="ServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bikeserver.ServerApplication" />
+      <module name="crowd-marketing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bikeserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,5 +106,16 @@
       <updated>1653943860238</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

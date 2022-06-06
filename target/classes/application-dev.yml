@@ -5,9 +5,9 @@ jwt:
     app: Spring-Security-App
 spring:
   datasource:
-    username: root
-    url: jdbc:mysql://localhost:3306/bike_server?useSSL=false&useLegacyDatetimeCode=false&serverTimezone=UTC&nullCatalogMeansCurrent=true&characterEncoding=UTF-8&allowPublicKeyRetrieval=true&createDatabaseIfNotExist=true
-    password: root
+    username: be1069675e6b7d
+    url: jdbc:mysql://eu-cdbr-west-02.cleardb.net:3306/heroku_4d5e83cf63ab5e6?useSSL=false&useLegacyDatetimeCode=false&serverTimezone=UTC&nullCatalogMeansCurrent=true&characterEncoding=UTF-8&allowPublicKeyRetrieval=true&createDatabaseIfNotExist=true
+    password: 3d152767
   jpa:
     generate-ddl: 'true'
     properties:
